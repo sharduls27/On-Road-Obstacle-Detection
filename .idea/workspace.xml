@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0403da1-eb9c-499b-b5fa-76fed5c29f71" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k46ZL6LcJR5PqVwdTlCgRA668R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ANKIT\Desktop\yolo_object_detection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.final_code">
+    <configuration name="final" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yolo_object_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="final_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yolo_object_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yolo_object_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yolo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yolo_object_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yolo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yolo_object_detection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yolo_object_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yolo_object_detection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.final_code" />
+        <item itemvalue="Python.final" />
+        <item itemvalue="Python.yolo" />
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.yolo_object_detection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0403da1-eb9c-499b-b5fa-76fed5c29f71" name="Default Changelist" comment="" />
+      <created>1604947570978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604947570978</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="516" y="187" key="FileChooserDialogImpl" timestamp="1605115471533">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="516" y="187" key="FileChooserDialogImpl/0.0.1470.864@0.0.1470.864" timestamp="1605115471533" />
+    <state width="1449" height="224" key="GridCell.Tab.0.bottom" timestamp="1606460719626">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state width="1449" height="224" key="GridCell.Tab.0.bottom/0.0.1470.864@0.0.1470.864" timestamp="1606460719626" />
+    <state width="1449" height="224" key="GridCell.Tab.0.center" timestamp="1606460719626">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state width="1449" height="224" key="GridCell.Tab.0.center/0.0.1470.864@0.0.1470.864" timestamp="1606460719626" />
+    <state width="1449" height="224" key="GridCell.Tab.0.left" timestamp="1606460719626">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state width="1449" height="224" key="GridCell.Tab.0.left/0.0.1470.864@0.0.1470.864" timestamp="1606460719626" />
+    <state width="1449" height="224" key="GridCell.Tab.0.right" timestamp="1606460719626">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state width="1449" height="224" key="GridCell.Tab.0.right/0.0.1470.864@0.0.1470.864" timestamp="1606460719626" />
+    <state width="1449" height="277" key="GridCell.Tab.1.bottom" timestamp="1605121506591">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state width="1449" height="277" key="GridCell.Tab.1.bottom/0.0.1470.864@0.0.1470.864" timestamp="1605121506591" />
+    <state width="1449" height="277" key="GridCell.Tab.1.center" timestamp="1605121506590">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state width="1449" height="277" key="GridCell.Tab.1.center/0.0.1470.864@0.0.1470.864" timestamp="1605121506590" />
+    <state width="1449" height="277" key="GridCell.Tab.1.left" timestamp="1605121506590">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state width="1449" height="277" key="GridCell.Tab.1.left/0.0.1470.864@0.0.1470.864" timestamp="1605121506590" />
+    <state width="1449" height="277" key="GridCell.Tab.1.right" timestamp="1605121506591">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state width="1449" height="277" key="GridCell.Tab.1.right/0.0.1470.864@0.0.1470.864" timestamp="1605121506591" />
+    <state x="432" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1606450126907">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="432" y="256" key="com.intellij.ide.util.TipDialog/0.0.1470.864@0.0.1470.864" timestamp="1606450126907" />
+    <state x="398" y="181" key="search.everywhere.popup" timestamp="1606380008505">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="398" y="181" key="search.everywhere.popup/0.0.1470.864@0.0.1470.864" timestamp="1606380008505" />
+  </component>
+</project>
